@@ -1,0 +1,29 @@
+/*
+ Theme Name:   Astra Child Theme
+ Theme URI:    http://localhost
+ Description:  Astra Child Theme
+ Author:       Signe Juel Olsem
+ Author URI:   http://localhost
+ Template:     astra
+ Version:      0.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         Custom Colors, Custom Logo, Custom Menu, E-Commerce, Editor Style, Entertainment, Featured Images, Full Width Template, Left Sidebar, Microformats, One Column, Post Formats, Right Sidebar, RTL Language Support, Theme Options, Threaded Comments, Translation Ready, Two Columns
+ Text Domain:  astrachildtheme
+*/
+
+/* overskrift på forsiden */
+h1.elementor-heading-title.elementor-size-default {
+    color: black;
+}
+
+/* overskrift tykkelse og caps på overskrift på portfolio siden */
+h2.elementor-heading-title.elementor-size-default {
+    text-transform: uppercase;
+}
+
+/* citat på om mig side - kursiv og bold skrift */
+i {
+    font-style: italic;
+    font-weight: bold;
+}
